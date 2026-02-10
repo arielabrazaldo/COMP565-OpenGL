@@ -1,0 +1,48 @@
+# ========================
+# Visual Studio junk
+# ========================
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# ========================
+# Build output
+# ========================
+Debug/
+Release/
+x64/
+x86/
+out/
+build/
+
+# ========================
+# Compiled binaries
+# ========================
+*.exe
+*.dll
+*.pdb
+*.obj
+*.lib
+*.exp
+*.ilk
+
+# ========================
+# CMake (if applicable)
+# ========================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# ========================
+# Logs
+# ========================
+*.log
+
+# ========================
+# OS junk
+# ========================
+.DS_Store
+Thumbs.db
